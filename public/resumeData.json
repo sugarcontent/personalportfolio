@@ -2,7 +2,7 @@
   "main": {
     "name":"Gilbert Chua",
     "occupation":"Software Engineer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"working as a full-stack web developer",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -12,42 +12,42 @@
       "city":"Singapore"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com", // google drive link
+    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
         "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "className":"fab fa-facebook"
       },
       {
         "name":"medium",
         "url":"https://medium.com/@chuakianchiu",
-        "className":"fa fa-medium"
+        "className":"fab fa-medium"
       },
       {
         "name":"google-plus",
         "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "className":"fab fa-google-plus"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"instagram",
         "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "className":"fab fa-instagram"
       },
       {
         "name":"github",
         "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
       },
       {
         "name":"skype",
         "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "className":"fab fa-skype"
       }
     ]
   },
