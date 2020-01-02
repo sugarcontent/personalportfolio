@@ -118,16 +118,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Reminiscence — A Trip to Remember",
+        "category":"Japan Travel Journal",
+        "image":"miyajima.jpeg",
+        "url":"https://medium.com/@chuakianchiu/reminiscence-a-trip-to-remember-5f6af33c6857"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Kyushu Highlights",
+        "category":"Japan Travel Journal",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://www.youtube.com/watch?v=HREkF-aww2s&t="
       },
       {
         "title":"Original Thai Food",
