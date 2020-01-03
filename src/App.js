@@ -21,7 +21,7 @@ class App extends Component {
     ReactGA.pageview(window.location.pathname);
 
   }
-
+  // add a . infront of url when deploying to GitHub Pages
   getResumeData(){
     $.ajax({
       url:'./resumeData.json',
