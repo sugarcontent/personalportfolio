@@ -1,5 +1,4 @@
 # Description
-An online portfolio of Gilbert Chua
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 
 ## Credits
