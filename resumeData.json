@@ -65,7 +65,11 @@
         "level":"60%"
       },
       {
-        "name":"ReactJs",
+        "name":"ReactJS",
+        "level":"50%"
+      },
+      {
+        "name":"VueJS",
         "level":"50%"
       },
       {
